@@ -1,0 +1,13 @@
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\bin\Debug\netcoreapp3.1\kimetsu2for.exe
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\bin\Debug\netcoreapp3.1\kimetsu2for.deps.json
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\bin\Debug\netcoreapp3.1\kimetsu2for.runtimeconfig.json
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\bin\Debug\netcoreapp3.1\kimetsu2for.runtimeconfig.dev.json
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\bin\Debug\netcoreapp3.1\kimetsu2for.dll
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\bin\Debug\netcoreapp3.1\kimetsu2for.pdb
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\obj\Debug\netcoreapp3.1\kimetsu2for.csprojAssemblyReference.cache
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\obj\Debug\netcoreapp3.1\kimetsu2for.AssemblyInfoInputs.cache
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\obj\Debug\netcoreapp3.1\kimetsu2for.AssemblyInfo.cs
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\obj\Debug\netcoreapp3.1\kimetsu2for.csproj.CoreCompileInputs.cache
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\obj\Debug\netcoreapp3.1\kimetsu2for.dll
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\obj\Debug\netcoreapp3.1\kimetsu2for.pdb
+D:\Users\User\Documents\tutoria\kimetsu2for\kimetsu2for\obj\Debug\netcoreapp3.1\kimetsu2for.genruntimeconfig.cache
